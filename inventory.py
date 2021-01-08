@@ -1,5 +1,6 @@
-# A local bakery is developing an inventory system. The system will ask the user to input the quantity and price for each item. The items are butter, eggs, flour, sugar and chocolates.
-The program will read and calculate the total value of the items in the inventory. 
+# A local bakery is developing an inventory system. The system will ask the user to input the quantity and price for each item. 
+# The items are butter, eggs, flour, sugar and chocolates.
+# The program will read and calculate the total value of the items in the inventory. 
 
 
 
