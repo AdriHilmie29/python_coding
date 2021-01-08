@@ -1,4 +1,4 @@
-Find the area of room with formula area*length
+#Find the area of room with formula area*length
 
 -
 
@@ -7,4 +7,4 @@ width = float(input("Enter width(m): "))
 area = (length*width)
 print("The area of the room is",area,"m")
 
-note - I use meter as unit of measurement.
+#note - I use meter as unit of measurement.
