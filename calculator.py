@@ -1,7 +1,7 @@
-Write a program to make a simple calculator. The program should perform four basic operations (1-addition, 2-subtraction, 3-multiplication, and 4-division) 
-depending on the user’s choice. 
-The program will take two values from the user and the type of operation. The result will be displayed based on the operation chosen by the user. 
-The program will be repeated until user requests to stop.
+#Write a program to make a simple calculator. The program should perform four basic operations (1-addition, 2-subtraction, 3-multiplication, and 4-division) 
+#depending on the user’s choice. 
+#The program will take two values from the user and the type of operation. The result will be displayed based on the operation chosen by the user. 
+#The program will be repeated until user requests to stop.
 
 
 
