@@ -1,5 +1,5 @@
 # A bank is charging 6% interest per year for a loan. Monthly payments will be made for a certain period of time. Calculate the monthly payment amount a person needs to pay by
-asking the user to enter the loan amount and time period.
+# asking the user to enter the loan amount and time period.
 
 
 
