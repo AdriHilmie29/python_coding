@@ -1,8 +1,9 @@
-#Determine the weight of 3 different steel cylinders using the following formula:
+# Determine the weight of 3 different steel cylinders using the following formula:
 
-#𝑤𝑒𝑖𝑔ℎ𝑡 = 𝑑𝑒𝑛𝑠𝑖𝑡𝑦 × π × 𝑟𝑎𝑑𝑖𝑢𝑠2 × ℎ𝑒𝑖𝑔ℎ𝑡
+# 𝑤𝑒𝑖𝑔ℎ𝑡 = 𝑑𝑒𝑛𝑠𝑖𝑡𝑦 × π × 𝑟𝑎𝑑𝑖𝑢𝑠2 × ℎ𝑒𝑖𝑔ℎ𝑡
 
 #Prompt the users to enter the radius and height separately for the THREE different cylinders, given the density is the same for all the cylinders which is 0.634.
+# Coding by Bellamy
 
 
 
