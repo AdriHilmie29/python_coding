@@ -1,8 +1,8 @@
-Write a function named momentum() and calculate the momentum of cars before a collision if the mass and velocity of the cars are as follows:
-a. m = 1500, u = 80
-b. m = 2500, u = 130
-c. m = 1800, u = 100
-Given the formula to calculate momentum is 𝑝=𝑚𝑢. Name the Python file as momentum.py.
+# Write a function named momentum() and calculate the momentum of cars before a collision if the mass and velocity of the cars are as follows:
+# a. m = 1500, u = 80
+# b. m = 2500, u = 130
+# c. m = 1800, u = 100
+# Given the formula to calculate momentum is 𝑝=𝑚𝑢. Name the Python file as momentum.py.
 
 
 
